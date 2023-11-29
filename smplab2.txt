@@ -1,2 +1,4 @@
 git revert 2
 sample 2
+compare lab
+compare lab2
